@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5f6b9e92.css",
+    "main.js": "/static/js/main.ec6f82c6.js",
+    "static/js/787.7b5a45f4.chunk.js": "/static/js/787.7b5a45f4.chunk.js",
+    "static/media/Waypil_GitHub.PNG": "/static/media/Waypil_GitHub.4bb3df523893157ce855.PNG",
+    "index.html": "/index.html",
+    "main.5f6b9e92.css.map": "/static/css/main.5f6b9e92.css.map",
+    "main.ec6f82c6.js.map": "/static/js/main.ec6f82c6.js.map",
+    "787.7b5a45f4.chunk.js.map": "/static/js/787.7b5a45f4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f6b9e92.css",
+    "static/js/main.ec6f82c6.js"
+  ]
+}
